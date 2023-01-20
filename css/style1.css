@@ -1,0 +1,12 @@
+/* 공통속성 */
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    background: wheat;
+    margin: 0 auto;
+    height: 100%;
+}
+
+
